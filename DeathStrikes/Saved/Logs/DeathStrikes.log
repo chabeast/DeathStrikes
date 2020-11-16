@@ -12039,3 +12039,103 @@ Script call stack:
 	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
 	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
 
+[2020.11.16-10.59.10:135][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.16-10.59.10:198][518]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2020.11.16-10.59.10:301][518]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/Level1C390C51E47B4D633222C788E5ABB4E71.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/Level1.umap'
+[2020.11.16-10.59.10:679][518]AssetCheck: New page: Asset Save: Level1
+[2020.11.16-10.59.10:679][518]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2020.11.16-10.59.17:179][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.11.16-10.59.17:238][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Knight" FILE="D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset" SILENT=true
+[2020.11.16-10.59.17:304][851]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/Knight374784834C951934466622B001B899FF.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Blueprints/Knight.uasset'
+[2020.11.16-10.59.17:386][851]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/EnemyDB4F3C4C4CCA99B8B0015EB9469CDE69.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Enemy.uasset'
+[2020.11.16-10.59.17:390][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParagonCountess/EnemyHP_Widget" FILE="D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ParagonCountess/EnemyHP_Widget.uasset" SILENT=true
+[2020.11.16-10.59.17:404][851]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/EnemyHP_Widget64CD94A749631A3055B4AB9F451E0142.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ParagonCountess/EnemyHP_Widget.uasset'
+[2020.11.16-10.59.17:407][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ParagonGreystone/PlayerHealth_Widget" FILE="D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ParagonGreystone/PlayerHealth_Widget.uasset" SILENT=true
+[2020.11.16-10.59.17:427][851]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/PlayerHealth_WidgetF52FD9A348CE477E1F24528B1939DF9F.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ParagonGreystone/PlayerHealth_Widget.uasset'
+[2020.11.16-10.59.17:440][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Cleric" FILE="D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Blueprints/Cleric.uasset" SILENT=true
+[2020.11.16-10.59.17:485][851]LogSavePackage: Moving 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Saved/ClericBA9D8AF445C74D70D81C779C4B0E7CC3.tmp' to 'D:/GitHub Repository/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Blueprints/Cleric.uasset'
+[2020.11.16-10.59.17:584][851]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.16-10.59.17:584][851]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Knight.Knight
+[2020.11.16-10.59.17:584][851]LogContentValidation: Display: Validating Blueprint /Game/ParagonCountess/Characters/Heroes/Countess/Enemy.Enemy
+[2020.11.16-10.59.17:584][851]LogContentValidation: Display: Validating WidgetBlueprint /Game/ParagonCountess/EnemyHP_Widget.EnemyHP_Widget
+[2020.11.16-10.59.17:584][851]LogContentValidation: Display: Validating WidgetBlueprint /Game/ParagonGreystone/PlayerHealth_Widget.PlayerHealth_Widget
+[2020.11.16-10.59.17:584][851]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Cleric.Cleric
+[2020.11.16-11.00.01:475][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.16-11.00.01:543][406]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.01:543][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.01:879][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.16-11.00.01:879][406]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.01:879][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:206][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.11.16-11.00.02:207][406]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.02:207][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:451][406]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.02:451][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:464][406]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.02:464][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:712][406]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.02:712][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:727][406]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.02:727][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.16-11.00.02:995][406]LogSlate: Window 'DeathStrikes - Unreal Editor' being destroyed
+[2020.11.16-11.00.02:998][406]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.16-11.00.03:301][407]Cmd: QUIT_EDITOR
+[2020.11.16-11.00.03:301][407]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.16-11.00.03:334][407]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.16-11.00.05:185][407]LogExit: Preparing to exit.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:426][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:428][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:429][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:430][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.16-11.00.07:434][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
