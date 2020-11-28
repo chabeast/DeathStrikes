@@ -1,0 +1,1009 @@
+﻿Log file open, 11/20/20 14:10:38
+LogInit: Display: Running engine for game: DeathStrikes
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.216256
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.20-03.10.39:234][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.20-03.10.39:234][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:235][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:238][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.20-03.10.39:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.20-03.10.39:239][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.20-03.10.39:240][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.20-03.10.39:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.20-03.10.39:240][  0]LogHAL: Display: Platform has ~ 32 GB [34270773248 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.20-03.10.39:240][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.20-03.10.39:240][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Scalability.ini]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.20-03.10.39:241][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.20-03.10.39:241][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.20-03.10.39:242][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.20-03.10.39:242][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.20-03.10.39:242][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Config/Windows/Engine.ini]
+[2020.11.20-03.10.39:242][  0]LogInit: Computer: SYD-R101-PC19
+[2020.11.20-03.10.39:242][  0]LogInit: User: jfcraig
+[2020.11.20-03.10.39:242][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.20-03.10.39:242][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.20-03.10.39:242][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.11.20-03.10.39:242][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.20-03.10.39:242][  0]LogMemory: Process Physical Memory: 115.27 MB used, 115.27 MB peak
+[2020.11.20-03.10.39:242][  0]LogMemory: Process Virtual Memory: 104.54 MB used, 104.54 MB peak
+[2020.11.20-03.10.39:242][  0]LogMemory: Physical Memory: 9067.77 MB used,  23615.38 MB free, 32683.16 MB total
+[2020.11.20-03.10.39:242][  0]LogMemory: Virtual Memory: 5152.15 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.11.20-03.10.39:247][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.20-03.10.39:290][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.20-03.10.39:291][  0]LogInit: Using OS detected language (en-US).
+[2020.11.20-03.10.39:292][  0]LogInit: Using OS detected locale (en-AU).
+[2020.11.20-03.10.39:300][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.20-03.10.39:521][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.20-03.10.39:550][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.20-03.10.39:550][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.20-03.10.39:716][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.20-03.10.39:716][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.20-03.10.39:716][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.20-03.10.39:716][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.20-03.10.39:788][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2020.11.20-03.10.39:788][  0]LogD3D11RHI:       4053/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.20-03.10.39:790][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.20-03.10.39:790][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.20-03.10.39:790][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.20-03.10.39:798][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.20-03.10.39:798][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.20-03.10.39:798][  0]LogWindows: EnumDisplayDevices:
+[2020.11.20-03.10.39:799][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2020.11.20-03.10.39:799][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.11.20-03.10.39:799][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.11.20-03.10.39:800][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2020.11.20-03.10.39:800][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.20-03.10.39:800][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2020.11.20-03.10.39:800][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.11.20-03.10.39:800][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.11.20-03.10.39:800][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2020.11.20-03.10.39:840][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.20-03.10.39:841][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.11.20-03.10.39:841][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.20-03.10.39:841][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.20-03.10.39:858][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.20-03.10.40:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.20-03.10.40:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.20-03.10.40:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.20-03.10.40:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.20-03.10.40:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.20-03.10.40:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.20-03.10.40:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.20-03.10.40:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.20-03.10.40:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.20-03.10.40:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.20-03.10.40:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.20-03.10.40:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.20-03.10.40:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.20-03.10.40:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.20-03.10.40:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.20-03.10.40:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.20-03.10.40:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.20-03.10.40:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.20-03.10.40:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.20-03.10.40:411][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.20-03.10.40:420][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.20-03.10.40:490][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Intermediate/Shaders/WorkingDirectory/17080/).
+[2020.11.20-03.10.40:490][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jfcraig/AppData/Local/Temp/UnrealShaderWorkingDir/EE90719C461AD10FA8F04085EFECA76F/'.
+[2020.11.20-03.10.40:491][  0]LogXGEController: Cleaning working directory: C:/Users/jfcraig/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.20-03.10.40:491][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.11.20-03.10.41:366][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/jfcraig/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jfcraig/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.20-03.10.41:425][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.20-03.10.41:436][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.20-03.10.41:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.20-03.10.41:436][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.20-03.10.41:438][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jfcraig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.20-03.10.41:438][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.20-03.10.41:438][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.20-03.10.41:489][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.20-03.10.41:490][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.20-03.10.41:518][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.11.20-03.10.41:777][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.20-03.10.41:910][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.20-03.10.41:910][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.20-03.10.41:910][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.20-03.10.41:910][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.20-03.10.41:910][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.20-03.10.41:928][  0]LogNetVersion: DeathStrikes 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3077566668)
+[2020.11.20-03.10.42:385][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002B3A5288380), frame # 0
+[2020.11.20-03.10.42:386][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B3A4FE11C0), frame # 0
+[2020.11.20-03.10.42:388][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B3A5134A00), frame # 0
+[2020.11.20-03.10.42:439][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.043084 seconds
+[2020.11.20-03.10.42:444][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.20-03.10.42:444][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.20-03.10.42:444][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.20-03.10.42:833][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.20-03.10.42:838][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.20-03.10.42:923][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.42:923][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.42:926][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.42:929][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.42:937][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.43:207][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.20-03.10.43:233][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.20-03.10.43:233][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.20-03.10.43:296][  0]LogOcInput: OculusInput pre-init called
+[2020.11.20-03.10.43:310][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.20-03.10.43:310][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.20-03.10.43:378][  0]LogEngine: Initializing Engine...
+[2020.11.20-03.10.43:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.20-03.10.43:379][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.20-03.10.43:380][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.20-03.10.43:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.20-03.10.43:519][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.20-03.10.43:519][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B3ADA0BC00), frame # 0
+[2020.11.20-03.10.43:519][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B3ADA52200), frame # 0
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.20-03.10.43:539][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.20-03.10.43:539][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.20-03.10.43:539][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.20-03.10.43:557][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.10.43:557][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-03.10.43:683][  0]LogAudioMixer: Display: Using Audio Device U28E850 (2- NVIDIA High Definition Audio)
+[2020.11.20-03.10.43:685][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.20-03.10.43:689][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.20-03.10.43:689][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.20-03.10.43:690][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.20-03.10.43:691][  0]LogInit: FAudioDevice initialized.
+[2020.11.20-03.10.43:692][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.20-03.10.43:775][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/jfcraig/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.20-03.10.43:775][  0]LogInit: Texture streaming: Enabled
+[2020.11.20-03.10.43:799][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.20-03.10.43:799][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.20-03.10.43:805][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.20-03.10.43:855][  0]LogInit: Transaction tracking system initialized
+[2020.11.20-03.10.43:887][  0]BlueprintLog: New page: Editor Load
+[2020.11.20-03.10.43:989][  0]LocalizationService: Localization service is disabled
+[2020.11.20-03.10.44:201][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.20-03.10.44:201][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.20-03.10.44:355][  0]LogFileCache: Scanning file cache for directory 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/' took 0.05s
+[2020.11.20-03.10.44:597][  0]SourceControl: Source control is disabled
+[2020.11.20-03.10.44:597][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.083
+[2020.11.20-03.10.44:597][  0]Cmd: MAP LOAD FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.20-03.10.44:597][  0]LogEditorServer: Warning: Can't find file 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.20-03.10.44:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.20-03.10.44:597][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2020.11.20-03.10.44:597][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2020.11.20-03.10.44:599][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.086
+[2020.11.20-03.10.44:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.10.44:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.10.44:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.10.44:767][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.10.44:776][  0]LogCollectionManager: Loaded 0 collections in 0.001804 seconds
+[2020.11.20-03.10.44:788][  0]LogFileCache: Scanning file cache for directory 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Collections/' took 0.00s
+[2020.11.20-03.10.44:788][  0]LogFileCache: Scanning file cache for directory 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/Developers/jfcraig/Collections/' took 0.00s
+[2020.11.20-03.10.44:788][  0]LogFileCache: Scanning file cache for directory 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/Collections/' took 0.00s
+[2020.11.20-03.10.44:788][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3427 classes and 821 folders.
+[2020.11.20-03.10.44:790][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.20-03.10.44:873][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.20-03.10.44:875][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.11.20-03.10.44:919][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.20-03.10.44:922][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.20-03.10.44:926][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.20-03.10.44:993][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.11.20-03.10.45:111][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.20-03.10.45:111][  0]LogLoad: (Engine Initialization) Total time: 8.60 seconds
+[2020.11.20-03.10.45:111][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.20-03.10.45:172][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.20-03.10.45:273][  1]LogAssetRegistry: Asset discovery search completed in 3.7571 seconds
+[2020.11.20-03.10.45:278][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.11.20-03.10.46:577][  5]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.20-03.11.08:022][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.08:023][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.08:207][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/NotifyStates/Damage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:207][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/NotifyStates/Damage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:207][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/NotifyStates/Damage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:207][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/NotifyStates/Damage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:207][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:208][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:208][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:208][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:208][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.08:208][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_PrimaryA_Montage.uasset' failed to load '/Game/UI/EnemyHealthBar': Can't find file.
+[2020.11.20-03.11.09:373][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.09:373][441]LoadErrors: Failed to load /Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart.LevelStart Referenced by LevelStart_Montage
+[2020.11.20-03.11.09:373][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.09:374][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.09:374][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/Characters/Heroes/Mudang/Animations/LevelStart': Can't find file.
+[2020.11.20-03.11.09:374][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.09:374][441]LoadErrors: Failed to load /Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart.P_Mudang_LevelStart_Heart Referenced by AnimNotify_PlayParticleEffect_0
+[2020.11.20-03.11.09:374][441]LogLinker: Warning: While loading 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.uasset' failed to load '/Game/ParagonShinbi/FX/Particles/Emotes/FX/P_Mudang_LevelStart_Heart': Can't find file.
+[2020.11.20-03.11.09:731][441]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:ExecuteUbergraph_Countess_AnimBlueprint
+
+[2020.11.20-03.11.09:734][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.11.09:737][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2020.11.20-03.11.09:752][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.11.20-03.11.09:753][441]Cmd: MAP LOAD FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.20-03.11.09:753][441]LightingResults: New page: Lighting Build
+[2020.11.20-03.11.09:754][441]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2020.11.20-03.11.09:754][441]LoadErrors: New page: Loading map: Level1.umap
+[2020.11.20-03.11.09:754][441]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-03.11.09:754][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-03.11.09:754][441]MapCheck: New page: Map Check
+[2020.11.20-03.11.09:754][441]LightingResults: New page: Lighting Build
+[2020.11.20-03.11.09:763][441]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B3ADA0BC00), frame # 2441
+[2020.11.20-03.11.09:763][441]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B3ADA52200), frame # 2441
+[2020.11.20-03.11.09:765][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.11.20-03.11.09:768][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:ExecuteUbergraph_Countess_AnimBlueprint
+
+[2020.11.20-03.11.09:770][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.11.09:774][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.20-03.11.09:774][441]LogAIModule: Creating AISystem for world Level1
+[2020.11.20-03.11.09:774][441]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B3B8FFC800), frame # 2441
+[2020.11.20-03.11.09:774][441]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B3B9248CC0), frame # 2441
+[2020.11.20-03.11.09:788][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.20-03.11.09:803][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.20-03.11.09:803][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.11.20-03.11.09:804][441]LogFileHelpers: Loading map 'Level1' took 0.050
+[2020.11.20-03.28.17:534][368]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.20-03.28.17:551][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.20-03.28.17:552][368]PIE: New page: PIE session: Level1 (21 Nov 2020, 1:28:17 am)
+[2020.11.20-03.28.17:557][368]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.20-03.28.17:559][368]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.20-03.28.17:560][368]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2020.11.20-03.28.17:585][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025322s)
+[2020.11.20-03.28.17:587][368]LogAIModule: Creating AISystem for world Level1
+[2020.11.20-03.28.17:588][368]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B41ABEFE00), frame # 8368
+[2020.11.20-03.28.17:588][368]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B3B937D6C0), frame # 8368
+[2020.11.20-03.28.17:588][368]LogPlayLevel: PIE: World Init took: (0.003359s)
+[2020.11.20-03.28.17:589][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.029009s)
+[2020.11.20-03.28.17:603][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.20-03.28.17:607][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.20-03.28.17:607][368]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.20-03.28.17:607][368]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.20-03.28.17:616][368]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.28.17:616][368]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-03.28.17:650][368]LogAudioMixer: Display: Using Audio Device U28E850 (2- NVIDIA High Definition Audio)
+[2020.11.20-03.28.17:650][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.20-03.28.17:650][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.20-03.28.17:650][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.20-03.28.17:651][368]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.20-03.28.17:663][368]LogInit: FAudioDevice initialized.
+[2020.11.20-03.28.17:699][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.20-03.28.17:708][368]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:ExecuteUbergraph_Countess_AnimBlueprint
+
+[2020.11.20-03.28.17:714][368]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.28.17:715][368]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.20-14.28.17
+[2020.11.20-03.28.17:725][368]LogWorld: Bringing up level for play took: 0.017811
+[2020.11.20-03.28.17:726][368]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.11.20-03.28.17:737][368]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.11.20-03.28.17:753][368]PIE: Server logged in
+[2020.11.20-03.28.17:755][368]PIE: Play in editor total start time 0.209 seconds.
+[2020.11.20-03.28.19:881][570]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.11.20-03.28.19:881][570]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.11.20-03.29.51:166][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.29.51:167][582]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2020.11.20-03.29.51:169][582]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-03.29.51:170][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-03.29.51:176][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.20-03.29.51:179][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-03.29.51:211][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.29.51:214][582]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B3B937D6C0), frame # 18582
+[2020.11.20-03.29.51:215][582]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B41ABEFE00), frame # 18582
+[2020.11.20-03.29.51:218][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.20-03.29.51:251][583]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.11.20-03.30.20:022][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.11.20-03.30.20:168][ 84]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Level1_Auto1170D49F944AF5251E7CA5AA30BDB4746.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto1.umap'
+[2020.11.20-03.30.20:172][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.166
+[2020.11.20-03.30.20:172][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2020.11.20-03.32.43:893][650]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.33.08:681][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Knight.Knight
+[2020.11.20-03.33.08:895][914]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.11.20-03.33.09:946][914]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.33.09:953][914]LogSlate: Took 0.000791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.20-03.33.14:613][438]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.20-03.33.23:772][519]LogSlate: Took 0.000831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.20-03.34.11:451][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.20-03.34.11:463][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.20-03.34.11:463][588]PIE: New page: PIE session: Level1 (21 Nov 2020, 1:34:11 am)
+[2020.11.20-03.34.11:463][588]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2020.11.20-03.34.11:475][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012003s)
+[2020.11.20-03.34.11:477][588]LogAIModule: Creating AISystem for world Level1
+[2020.11.20-03.34.11:477][588]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B42B6BD800), frame # 27588
+[2020.11.20-03.34.11:477][588]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B3B92B3740), frame # 27588
+[2020.11.20-03.34.11:477][588]LogPlayLevel: PIE: World Init took: (0.002047s)
+[2020.11.20-03.34.11:478][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level1.Level1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 (0.014209s)
+[2020.11.20-03.34.11:502][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.20-03.34.11:509][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.20-03.34.11:509][588]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.20-03.34.11:509][588]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.20-03.34.11:518][588]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.34.11:518][588]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-03.34.11:551][588]LogAudioMixer: Display: Using Audio Device U28E850 (2- NVIDIA High Definition Audio)
+[2020.11.20-03.34.11:551][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.20-03.34.11:551][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.20-03.34.11:551][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.20-03.34.11:551][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.20-03.34.11:563][588]LogInit: FAudioDevice initialized.
+[2020.11.20-03.34.11:573][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.11.20-03.34.11:575][588]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonCountess/Characters/Heroes/Countess/Countess_AnimBlueprint.Countess_AnimBlueprint_C:ExecuteUbergraph_Countess_AnimBlueprint
+
+[2020.11.20-03.34.11:579][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2020.11.20-03.34.11:580][588]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.11.20-14.34.11
+[2020.11.20-03.34.11:581][588]LogWorld: Bringing up level for play took: 0.006768
+[2020.11.20-03.34.11:581][588]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.11.20-03.34.11:584][588]PIE: Server logged in
+[2020.11.20-03.34.11:585][588]PIE: Play in editor total start time 0.125 seconds.
+[2020.11.20-03.34.13:797][787]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonCountess/Characters/Heroes/Countess/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.11.20-03.34.23:521][724]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.24:540][818]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.25:837][941]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.27:055][ 56]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.27:065][ 57]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.27:075][ 58]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.28:324][173]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.28:335][174]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.29:381][272]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.29:392][273]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.30:726][397]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.30:735][398]LogAnimation: Warning: Setting an additive animation (Hitreact_Left) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.CountessPlayerCharacter_2.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2020.11.20-03.34.31:531][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.34.31:531][472]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level1
+[2020.11.20-03.34.31:532][472]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-03.34.31:532][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-03.34.31:547][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.20-03.34.31:552][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-03.34.31:590][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.20-03.34.31:591][472]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B42B6BD800), frame # 29472
+[2020.11.20-03.34.31:591][472]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B3B92B3740), frame # 29472
+[2020.11.20-03.34.31:593][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.11.20-03.34.31:649][473]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.11.20-03.47.02:718][741]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{65918d9f-b8a4-4172-b585-e34d4c965690}.
+[2020.11.20-03.47.02:718][741]LogTemp: Resetting audio stream to device id 
+[2020.11.20-03.47.02:978][741]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.47.02:978][741]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-03.47.03:293][748]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{65918d9f-b8a4-4172-b585-e34d4c965690}.
+[2020.11.20-03.47.03:297][748]LogTemp: Resetting audio stream to device id 
+[2020.11.20-03.47.03:672][748]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.47.03:672][748]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-03.48.34:242][386]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.20-03.48.59:384][460]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fba7cab3-7340-422e-8039-b8abcd8354b8}.
+[2020.11.20-03.48.59:385][460]LogTemp: Resetting audio stream to device id 
+[2020.11.20-03.48.59:424][460]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.20-03.48.59:424][460]LogAudioMixer: Display: 1: FrontRight
+[2020.11.20-05.44.10:047][476]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/JC_TEMP/AI/Enemy_BB.Enemy_BB
+[2020.11.20-05.44.12:457][733]LogSlate: Window 'Enemy_BB' being destroyed
+[2020.11.20-05.44.20:213][528]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/JC_TEMP/AI/Enemy_BT.Enemy_BT
+[2020.11.20-05.44.28:454][473]LogBehaviorTree: Warning: Blackboard asset (Enemy_BB) has (Enemy_BB) in parent chain! Clearing value to avoid cycle.
+[2020.11.20-05.44.30:075][660]LogBehaviorTree: Warning: Blackboard asset (Enemy_BB) has (Enemy_BB) in parent chain! Clearing value to avoid cycle.
+[2020.11.20-05.44.48:531][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JC_TEMP/AI/NPC_AI.NPC_AI
+[2020.11.20-05.44.54:397][957]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.20-05.45.03:222][983]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.20-05.45.03:222][983]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JC_TEMP/AI/BTTask_BlueprintBase_New1.BTTask_BlueprintBase_New1
+[2020.11.20-05.45.03:526][983]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/JC_TEMP/AI/BTTask_BlueprintBase_New1.
+[2020.11.20-05.47.19:856][131]LogSlate: Took 0.000937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.20-05.48.18:475][ 14]BlueprintLog: New page: Compile BTTask_BlueprintBase_New1
+[2020.11.20-05.48.18:504][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.11.20-05.48.22:590][440]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JC_TEMP/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.11.20-05.48.28:389][  6]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.20-05.48.43:237][770]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-05.48.43:237][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-05.48.52:702][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.11.20-05.48.53:907][816]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.20-05.48.54:028][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.11.20-05.48.54:062][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.20-05.48.54:086][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.20-05.49.16:085][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.11.20-05.49.16:093][366]LogMetaData: Removing '/Game/JC_TEMP/AI/FindPlayerLocation.SKEL_FindPlayerLocation_C' ref from Metadata '/Game/JC_TEMP/AI/BTTask_BlueprintBase_New1.PackageMetaData'
+[2020.11.20-05.49.16:093][366]LogMetaData: Removing '/Game/JC_TEMP/AI/FindPlayerLocation.FindPlayerLocation_C' ref from Metadata '/Game/JC_TEMP/AI/BTTask_BlueprintBase_New1.PackageMetaData'
+[2020.11.20-05.49.16:127][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/FindPlayerLocation" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/FindPlayerLocation.uasset" SILENT=true
+[2020.11.20-05.49.16:137][366]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/FindPlayerLocation1AEDFB5940CF9F876F559EADC0893EFD.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/FindPlayerLocation.uasset'
+[2020.11.20-05.49.16:412][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.11.20-05.49.16:444][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.11.20-05.49.16:469][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.20-05.49.16:710][366]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/JC_TEMP/AI/FindPlayerLocation.
+[2020.11.20-05.49.16:717][366]AssetCheck: New page: Asset Save: FindPlayerLocation
+[2020.11.20-05.49.16:717][366]LogContentValidation: Display: Validating Blueprint /Game/JC_TEMP/AI/FindPlayerLocation.FindPlayerLocation
+[2020.11.20-05.49.26:405][251]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.20-05.50.04:318][325]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.20-05.50.14:976][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/Enemy_BB" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BB.uasset" SILENT=true
+[2020.11.20-05.50.14:981][577]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Enemy_BB2101D97E4ABD5BE8297BF58748BEBAB9.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BB.uasset'
+[2020.11.20-05.50.14:982][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/Enemy_BT" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset" SILENT=true
+[2020.11.20-05.50.14:989][577]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Enemy_BTFB9C128F4B47031D9F54ECB6E0446006.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset'
+[2020.11.20-05.50.15:003][577]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.20-05.50.15:003][577]LogContentValidation: Display: Validating BlackboardData /Game/JC_TEMP/AI/Enemy_BB.Enemy_BB
+[2020.11.20-05.50.15:003][577]LogContentValidation: Display: Validating BehaviorTree /Game/JC_TEMP/AI/Enemy_BT.Enemy_BT
+[2020.11.20-05.51.37:197][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/Enemy_BT" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset" SILENT=true
+[2020.11.20-05.51.37:207][329]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Enemy_BTD52ECAD54B6940D5C8EC4CAC0647919F.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset'
+[2020.11.20-05.51.37:224][329]AssetCheck: New page: Asset Save: Enemy_BT
+[2020.11.20-05.51.37:224][329]LogContentValidation: Display: Validating BehaviorTree /Game/JC_TEMP/AI/Enemy_BT.Enemy_BT
+[2020.11.20-05.52.02:272][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.11.20-05.52.02:306][273]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Level1_Auto2B2F6452B4247AC52F9053B9D3840D85B.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level1_Auto2.umap'
+[2020.11.20-05.52.02:307][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level1' took 0.060
+[2020.11.20-05.52.02:307][273]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2020.11.20-05.52.02:308][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/JC_TEMP/AI/Enemy_BT] ([1] browsable assets)...
+[2020.11.20-05.52.02:308][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/JC_TEMP/AI/Enemy_BT]
+[2020.11.20-05.52.02:308][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/Enemy_BT" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Autosaves/Game/JC_TEMP/AI/Enemy_BT_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.11.20-05.52.02:314][273]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Enemy_BT_Auto23B827EED42C3B9AA21A284AD022B35EB.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Autosaves/Game/JC_TEMP/AI/Enemy_BT_Auto2.uasset'
+[2020.11.20-05.52.02:315][273]LogFileHelpers: Auto-saving content packages took 0.008
+[2020.11.20-07.05.21:661][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JC_TEMP/AI/Enemy_BT" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset" SILENT=true
+[2020.11.20-07.05.21:668][656]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Enemy_BTCCBB098545AC96A51C6433B105E35001.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/JC_TEMP/AI/Enemy_BT.uasset'
+[2020.11.20-07.05.21:684][656]AssetCheck: New page: Asset Save: Enemy_BT
+[2020.11.20-07.05.21:684][656]LogContentValidation: Display: Validating BehaviorTree /Game/JC_TEMP/AI/Enemy_BT.Enemy_BT
+[2020.11.20-07.05.25:698][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Level1" FILE="D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.20-07.05.25:725][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.11.20-07.05.25:758][ 94]LogSavePackage: Moving 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Saved/Level1499E2B844199CE88D3D8A5B6D02D2976.tmp' to 'D:/JoshCraigTemp/GitHub/DeathStrikes/DeathStrikes/Content/ThirdPersonBP/Maps/Level1.umap'
+[2020.11.20-07.05.25:785][ 94]AssetCheck: New page: Asset Save: Level1
+[2020.11.20-07.05.25:785][ 94]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level1.Level1
+[2020.11.20-07.05.27:548][269]LogUObjectArray: Warning: Invalid object index 4391016
+[2020.11.20-07.05.27:551][269]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.20-07.05.28:402][269]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.851 s
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: 
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/Kismet/Private/SKismetInspector.cpp] [Line: 622]
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: Object in KismetInspector is invalid, see TTP 281915
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: Stack: 
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff69f89de9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff69d9a71a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff69d983c9 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237031 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c33c664 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:402][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c33ea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c33c664 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c33ea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77235915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77234fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77237866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77238357 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff77199770 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff772385e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c109747 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c13a669 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c160af0 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fff6c160024 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007ff7ed568735 UE4Editor.exe!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007ff7ed57ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007ff7ed57bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007ff7ed58e31d UE4Editor.exe!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007ff7ed59145a UE4Editor.exe!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fffd30c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: [Callstack] 0x00007fffd506ce51 ntdll.dll!UnknownFunction []
+[2020.11.20-07.05.28:403][269]LogOutputDevice: Error: 
